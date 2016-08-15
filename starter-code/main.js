@@ -38,7 +38,6 @@ var isTwoCards = function() {
 
 };
 
-
 //document.gameBoard.appendChild('createCard');
 
 
